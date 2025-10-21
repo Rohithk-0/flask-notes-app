@@ -1,6 +1,5 @@
 web: gunicorn main:app
 
-
 cd notes-app
 git init
 git add .
