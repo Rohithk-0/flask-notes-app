@@ -1,4 +1,4 @@
-web: gunicorn app:app
+web: gunicorn main:app
 
 
 cd notes-app
